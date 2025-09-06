@@ -10,4 +10,4 @@ This tool uses your webcam to detect hand gestures (1-4 fingers) and automates i
 
 1. Clone the repository
 2. Place your images in the `images/` folder
-3. Install requirements:
+3. Install requirements
