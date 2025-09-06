@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import os
 
-# Initialize MediaPipe hand detector
+# Initialize MediaPipe Hand detector
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
