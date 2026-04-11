@@ -5,9 +5,3 @@ This tool uses your webcam to detect hand gestures (1-4 fingers) and automates i
 - 2 Fingers → Previous image
 - 3 Fingers → Rotate current image
 - 4 Fingers → Blur current image
-
-## Setup
-
-1. Clone the repository
-2. Place your images in the `images/` folder
-3. Install requirements
